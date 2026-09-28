@@ -1,0 +1,22 @@
+.caixa{
+    background-color: lightgrey;
+    padding: 15px;
+    border: black solid;
+    border-radius: 20px;
+    color: black;
+    height: 105px;
+}
+a{
+    background-color: black;
+    padding: 15px;
+    border: black solid;
+    border-radius: 20px;
+    margin: auto;
+    color: white;
+    
+    left: 895px;
+}
+
+h1{
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.caixalink{
+    background-color: lightgrey;
+    padding: 15px;
+    text-align: center;
+    border: black solid;
+    border-radius: 20px;
+    margin: auto;
+    color: black;
+}

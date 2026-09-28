@@ -1,0 +1,19 @@
+<div class="contado" class="caixa">
+
+<h1 class="titulo">{{titulo()}}</h1>
+
+    <button (click)="somar()" class="botao">+1</button>
+    <h1>{{numero}}</h1>
+    <button (click)="diminuir()" class="botao">-1</button>
+    <p></p>
+
+    <div [class.erro]="numero < 0">
+    @if (numero < 0) {
+        <p>invalido</p>
+    }
+    @else {
+
+    }
+
+    </div>
+</div>

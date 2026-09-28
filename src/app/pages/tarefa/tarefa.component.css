@@ -1,0 +1,9 @@
+.caixa{
+    background-color: lightgrey;
+    padding: 15px;
+    text-align: center;
+    border: black solid;
+    border-radius: 20px;
+    margin: 20px;
+    color: black;
+}
